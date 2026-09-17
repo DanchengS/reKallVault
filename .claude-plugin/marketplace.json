@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rekall-vault",
+  "description": "Interview-first career vault and JD-tailored résumé plugin for Claude Code.",
+  "owner": {
+    "name": "DanchengS",
+    "url": "https://github.com/DanchengS"
+  },
+  "plugins": [
+    {
+      "name": "rekall-vault",
+      "source": "./",
+      "description": "Interview-first career vault and JD-tailored résumé generator. Local, evidence-backed, no invented bullets.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

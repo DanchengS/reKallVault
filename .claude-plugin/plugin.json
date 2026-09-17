@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "rekall-vault",
+  "version": "0.1.0",
+  "description": "Rebuild your career history through a guided interview, keep it as an evidence-backed local vault, and generate JD-tailored résumés where every bullet traces back to something you actually said.",
+  "author": {
+    "name": "DanchengS",
+    "url": "https://github.com/DanchengS"
+  },
+  "homepage": "https://github.com/DanchengS/reKallVault",
+  "repository": "https://github.com/DanchengS/reKallVault",
+  "license": "Apache-2.0",
+  "keywords": ["resume", "career", "interview", "job-description", "cv"]
+}
